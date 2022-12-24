@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Kevinst2022
+- 👀 I’m interested in meeting software developers ...
+- 🌱 I’m currently learning software development in Parquesoft IT...
+- 📫 How to reach me kevinsterling40@gmail.com...
+
+<!---
+Kevinst2022/Kevinst2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
